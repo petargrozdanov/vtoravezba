@@ -1,2 +1,3 @@
 okurac
 go menuvam stariot fajl
+ova mi e promena od master
