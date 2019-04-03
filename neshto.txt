@@ -1,1 +1,2 @@
 okurac
+go menuvam stariot fajl
